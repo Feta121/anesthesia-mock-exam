@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Anesthesia Mock Exam Platform - practice questions, timed mock examinations, analytics and bookmarks for anesthesia students." />
+    <title>Anesthesia Mock Exam</title>
+    <meta http-equiv="Cache-Control" content="no-store" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f766e'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='Arial'%3EA%3C/text%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="/css/styles.css?v=4" />
+  </head>
+  <body>
+    <div id="boot" class="boot">
+      <div class="boot-logo">A</div>
+      <div class="boot-text">Anesthesia Mock Exam <span style="opacity:.5">v4</span></div>
+      <div class="spinner"></div>
+      <div class="boot-help" id="boot-status">Loading application…</div>
+      <a href="/diagnostics.html" style="font-size:.78rem;color:#94a3b8">Run diagnostics</a>
+    </div>
+    <div id="app" hidden></div>
+    <div id="toast-root" class="toast-root" aria-live="polite"></div>
+    <div id="modal-root"></div>
+
+    <script>
+      // If the module below fails to load (wrong URL, opened via file://, syntax
+      // error, server down), replace the boot spinner with an actionable message
+      // instead of hanging forever.
+      (function () {
+        var ready = false;
+
+        function fail(reason) {
+          if (ready || document.documentElement.dataset.appReady) return;
+          var boot = document.getElementById("boot");
+          if (!boot) return;
+          var directFile = location.protocol === "file:";
+          boot.innerHTML =
+            '<div class="boot-logo" style="background:#dc2626">!</div>' +
+            '<div class="boot-text">The application could not start</div>' +
+            '<div class="boot-help">' +
+            (directFile
+              ? "This page was opened directly from disk. It must be served by the app server."
+              : "The interface loaded, but the application script did not run.") +
+            "<br/><br/>Start the server and open it in your browser:" +
+            '<pre class="boot-code">cd "Anesthesia Mock Exam Platform"\nnpm start</pre>' +
+            'Then open <a href="http://localhost:3000">http://localhost:3000</a>.' +
+            "</div>" +
+            '<pre class="boot-err"></pre>';
+          boot.querySelector(".boot-err").textContent = "Details: " + reason;
+        }
+
+        window.addEventListener(
+          "error",
+          function (e) {
+            if (e && e.target && e.target.tagName) {
+              var src = e.target.src || e.target.href || "";
+              fail("Failed to load resource: " + src);
+            } else if (e && e.message) {
+              fail(e.message);
+            }
+          },
+          true
+        );
+
+        window.addEventListener("unhandledrejection", function (e) {
+          var reason = e && e.reason ? e.reason.message || String(e.reason) : "unknown";
+          fail("Unhandled error: " + reason);
+        });
+
+        setTimeout(function () {
+          if (!ready && !document.documentElement.dataset.appReady) {
+            fail("The application did not finish loading in time.");
+          }
+        }, 4000);
+
+        window.__amxMarkReady = function () {
+          ready = true;
+          var s = document.getElementById("boot-status");
+          if (s) s.textContent = "Application script loaded — starting…";
+        };
+      })();
+    </script>
+
+    <script type="module" src="/js/app.js?v=4"></script>
+
+    <script nomodule>
+      (function () {
+        var boot = document.getElementById("boot");
+        if (!boot) return;
+        boot.innerHTML =
+          '<div class="boot-logo" style="background:#dc2626">!</div>' +
+          '<div class="boot-text">Your browser is not supported</div>' +
+          '<div class="boot-help">This app needs a modern browser (Chrome, Edge, Firefox or Safari, updated in the last few years). Please update your browser and reload.</div>';
+      })();
+    </script>
+  </body>
+</html>

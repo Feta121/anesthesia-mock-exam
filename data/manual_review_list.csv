@@ -1,0 +1,98 @@
+id,source,source_number,flags,question_preview,answer
+CR-0084,A Comprehensive Review 1001,84,matching_group_shared_options,[Matching] Helium,B
+CR-0085,A Comprehensive Review 1001,85,matching_group_shared_options,[Matching] Nitrogen,A
+CR-0086,A Comprehensive Review 1001,86,matching_group_shared_options,[Matching] CO2,D
+CR-0087,A Comprehensive Review 1001,87,matching_options_missing_figure_or_unparsed,[Matching] Best for spontaneous ventilation,A
+CR-0088,A Comprehensive Review 1001,88,matching_options_missing_figure_or_unparsed,[Matching] Best for controlled ventilation FGF A B FGF C D FGF FGF E F,D
+CR-0089,A Comprehensive Review 1001,89,matching_options_missing_figure_or_unparsed,[Matching] Bain system is modification of 90. Jackson-Rees system FGF FGF,D
+CR-0090,A Comprehensive Review 1001,90,question_text_partially_located; matching_options_missing_figure_or_unparsed,[Matching] Jackson-Rees system,
+CR-0283,A Comprehensive Review 1001,283,matching_group_shared_options,[Matching] Adrenal suppression,C
+CR-0284,A Comprehensive Review 1001,284,matching_group_shared_options,"[Matching] Thrombosis, phlebitis, specific antagonist available",B
+CR-0285,A Comprehensive Review 1001,285,matching_group_shared_options,"[Matching] Pain on injection, severe hypotension in elderly",D
+CR-0286,A Comprehensive Review 1001,286,matching_group_shared_options,[Matching] Increases ICP,A
+CR-0288,A Comprehensive Review 1001,288,matching_group_shared_options,[Matching] Reduces MAC,A
+CR-0289,A Comprehensive Review 1001,289,matching_group_shared_options,[Matching] Blockade of angiotensin receptor,C
+CR-0290,A Comprehensive Review 1001,290,matching_group_shared_options,[Matching] With high doses may cause a systemic lupus erythematosus–like syndrome,B
+CR-0291,A Comprehensive Review 1001,291,matching_group_shared_options,[Matching] Produces α-adrenergic receptor and β-adrenergic receptor blockade,D
+CR-0293,A Comprehensive Review 1001,293,matching_group_shared_options,[Matching] Alternative to heparin for cardiopulmonary bypass,A
+CR-0294,A Comprehensive Review 1001,294,matching_group_shared_options,[Matching] Glycoprotein (GP)IIb/IIIa inhibition,C
+CR-0295,A Comprehensive Review 1001,295,matching_group_shared_options,[Matching] Direct thrombin inhibition,A
+CR-0296,A Comprehensive Review 1001,296,matching_group_shared_options,[Matching] Used after angioplasty often for a year or more to prevent restenosis,B
+CR-0298,A Comprehensive Review 1001,298,matching_group_shared_options,"[Matching] Of the list, most likely to be associated with opioid induced hyperalgesia",B
+CR-0299,A Comprehensive Review 1001,299,matching_group_shared_options,[Matching] Demonstrates ceiling effect with regard to respiratory depression,D
+CR-0300,A Comprehensive Review 1001,300,matching_group_shared_options,[Matching] Antagonism of NMDA receptors,A
+CR-0302,A Comprehensive Review 1001,302,matching_group_shared_options,[Matching] Block is antagonized with anticholinesterase drugs,D
+CR-0303,A Comprehensive Review 1001,303,matching_group_shared_options,[Matching] Block is enhanced with anticholinesterase drugs,B
+CR-0304,A Comprehensive Review 1001,304,matching_group_shared_options,[Matching] Post-tetanic facilitation occurs,D
+CR-0306,A Comprehensive Review 1001,306,matching_group_shared_options,[Matching] Amphetamines,D
+CR-0307,A Comprehensive Review 1001,307,matching_group_shared_options,"[Matching] α2 Agonists (clonidine, dexmedetomidine)",C
+CR-0308,A Comprehensive Review 1001,308,matching_group_shared_options,[Matching] Hyperthyroidism,A
+CR-0309,A Comprehensive Review 1001,309,matching_group_shared_options,[Matching] Acute ethanol ingestion,C
+CR-0310,A Comprehensive Review 1001,310,matching_group_shared_options,[Matching] Lidocaine,C
+CR-0311,A Comprehensive Review 1001,311,matching_group_shared_options,[Matching] Lithium,C
+CR-0312,A Comprehensive Review 1001,312,matching_group_shared_options,[Matching] Opioids,C
+CR-0313,A Comprehensive Review 1001,313,matching_group_shared_options,[Matching] Duration of anesthesia,A
+CR-0314,A Comprehensive Review 1001,314,matching_group_shared_options,[Matching] Pregnancy,C
+CR-0316,A Comprehensive Review 1001,316,matching_group_shared_options,[Matching] Least effective antisialagogue,A
+CR-0317,A Comprehensive Review 1001,317,matching_group_shared_options,[Matching] Produces best sedation,C
+CR-0318,A Comprehensive Review 1001,318,matching_group_shared_options,[Matching] Causes greatest increase in heart rate,A
+CR-0319,A Comprehensive Review 1001,319,matching_group_shared_options,[Matching] Does not produce central anticholinergic syndrome,B
+CR-0378,A Comprehensive Review 1001,378,matching_options_missing_figure_or_unparsed,[Matching] Halothane (1 MAC),A
+CR-0379,A Comprehensive Review 1001,379,matching_options_missing_figure_or_unparsed,[Matching] Isoflurane (1 MAC),C
+CR-0380,A Comprehensive Review 1001,380,matching_options_missing_figure_or_unparsed,[Matching] Desflurane (1 MAC),D
+CR-0381,A Comprehensive Review 1001,381,matching_options_missing_figure_or_unparsed,[Matching] Sevoflurane (1 MAC),B
+CR-0417,A Comprehensive Review 1001,417,options_not_parsed,What is the process aimed at reducing graft-versus- host disease (GVHD) in transfusion recipients?,C
+CR-0547,A Comprehensive Review 1001,547,matching_group_shared_options,[Matching] Skin lesions all appear at the same stage and at the same time,A
+CR-0548,A Comprehensive Review 1001,548,matching_group_shared_options,[Matching] Ciprofloxacin for 60 days is prophylaxis for exposed patients,B
+CR-0549,A Comprehensive Review 1001,549,matching_group_shared_options,[Matching] Not contagious,D
+CR-0550,A Comprehensive Review 1001,550,matching_group_shared_options,"[Matching] Treatment may include streptomycin, gentamicin, or tetracycline",C
+CR-0551,A Comprehensive Review 1001,551,matching_group_shared_options,[Matching] Treatment includes trivalent equine antitoxin,D
+CR-0552,A Comprehensive Review 1001,552,matching_group_shared_options,"[Matching] Three primary types: cutaneous, gastrointestinal, and inhalation",B
+CR-0553,A Comprehensive Review 1001,553,matching_group_shared_options,[Matching] Vaccine may prevent or greatly attenuate symptoms if given within 4 days of exposure,A
+CR-0555,A Comprehensive Review 1001,555,matching_group_shared_options,[Matching] Decreased FEV1/FVC ratio,D
+CR-0556,A Comprehensive Review 1001,556,matching_group_shared_options,[Matching] Decreased total pulmonary compliance,C
+CR-0557,A Comprehensive Review 1001,557,matching_group_shared_options,[Matching] Increased TLC,D
+CR-0558,A Comprehensive Review 1001,558,matching_group_shared_options,[Matching] Decreased FRC,C
+CR-0559,A Comprehensive Review 1001,559,matching_group_shared_options,"[Matching] Decreased FEV1, normal FEV1/FVC ratio",C
+CR-0561,A Comprehensive Review 1001,561,matching_group_shared_options; maybe_figure,[Matching] Weakness of all muscles below the knee,A
+CR-0562,A Comprehensive Review 1001,562,matching_group_shared_options,[Matching] Footdrop; loss of dorsal extension of the toes,B
+CR-0563,A Comprehensive Review 1001,563,matching_group_shared_options,[Matching] Weakness of the muscles that extend the knee,C
+CR-0564,A Comprehensive Review 1001,564,matching_group_shared_options,[Matching] Inability to adduct the leg; diminished sensation over the medial side of the thigh,D
+CR-0565,A Comprehensive Review 1001,565,matching_group_shared_options,[Matching] Most commonly caused by placement of patient into the lithotomy position,B
+CR-0574,A Comprehensive Review 1001,574,options_not_parsed; maybe_figure,Which figure of esophageal atresia (EA) or tracheoesophageal fistula (TEF) is the MOST common? A B C D 155,A
+CR-0898,A Comprehensive Review 1001,898,matching_options_missing_figure_or_unparsed,[Matching] Musculocutaneous nerve,E
+CR-0899,A Comprehensive Review 1001,899,matching_options_missing_figure_or_unparsed,[Matching] Axillary artery,B
+CR-0900,A Comprehensive Review 1001,900,matching_options_missing_figure_or_unparsed,[Matching] Axillary vein,A
+CR-0901,A Comprehensive Review 1001,901,matching_options_missing_figure_or_unparsed,[Matching] Ulnar nerve,C
+CR-0902,A Comprehensive Review 1001,902,matching_group_shared_options,[Matching] Phrenic nerve,A
+CR-0903,A Comprehensive Review 1001,903,matching_group_shared_options,[Matching] Cardiac accelerator fibers,B
+CR-0904,A Comprehensive Review 1001,904,matching_group_shared_options,[Matching] Pudendal nerve,E
+CR-0905,A Comprehensive Review 1001,905,matching_group_shared_options,[Matching] Pain fibers to the uterus,D
+CR-0907,A Comprehensive Review 1001,907,matching_group_shared_options,[Matching] Sensory innervation of the mucous membranes of the nose,A
+CR-0908,A Comprehensive Review 1001,908,matching_group_shared_options,[Matching] Main sensory innervation to superior and inferior parts of the hard and soft palate,A
+CR-0909,A Comprehensive Review 1001,909,matching_group_shared_options; maybe_figure,[Matching] Sensory innervation of the larynx above the vocal cords,C
+CR-0910,A Comprehensive Review 1001,910,matching_group_shared_options; maybe_figure,[Matching] Sensory innervation below the vocal cords to the carina,E
+CR-0911,A Comprehensive Review 1001,911,matching_group_shared_options,[Matching] Sensory innervation to posterior third of the tongue,B
+CR-0912,A Comprehensive Review 1001,912,matching_group_shared_options,[Matching] Sensory innervation to the pharyngeal walls and the tonsils,B
+CR-0913,A Comprehensive Review 1001,913,matching_group_shared_options,"[Matching] Motor innervation to the intrinsic muscles of the larynx, except cricothyroid muscle",E
+CR-0995,A Comprehensive Review 1001,995,matching_options_assigned_manually,"[Matching] P wave flattening, widening of the QRS complex, peaked T wave",B
+CR-0996,A Comprehensive Review 1001,996,matching_options_assigned_manually,"[Matching] Depressed ST segments, flat T wave, U wave present",A
+CR-0997,A Comprehensive Review 1001,997,matching_options_assigned_manually,"[Matching] Normal or increased PR interval, short QT interval",D
+CR-0998,A Comprehensive Review 1001,998,matching_group_shared_options; matching_options_assigned_manually,[Matching] Clopidogrel,B
+CR-0999,A Comprehensive Review 1001,999,matching_group_shared_options; matching_options_assigned_manually,[Matching] Ticlopidine,C
+CR-1000,A Comprehensive Review 1001,1000,matching_group_shared_options; matching_options_assigned_manually,[Matching] ASA,D
+CR-1001,A Comprehensive Review 1001,1001,matching_options_assigned_manually,[Matching] Ibuprofen,A
+ARBA-0130,Arba Minch University Mock Exams 2025,130,option_marker_repaired,"A 61-year-old patient was appointed to preanesthetic workup for lobectomy surgery. During preoperative visit, the patient complains frequent urination, heavy dr",
+ARBA-0174,Arba Minch University Mock Exams 2025,174,source_has_only_3_options,Which of the following drugs are H-2 receptor antagonists and block the ability of histamine to induce secretion of gastric fluid with a high hydrogen ion conce,
+ARBA-0290,Arba Minch University Mock Exams 2025,290,letters_reconstructed_from_line_order_source_lost_labels,A 70-year-old patient has absence of the left radial pulse one month after repair of an aortic aneurysm. Arterial pressure was monitored perioperatively with a ,
+ARBA-0330,Arba Minch University Mock Exams 2025,330,letter_relabeled_E_to_D_source_typo,A 55-year-old man is undergoing craniotomy in the sitting position. Mean arterial pressure is 75 mmHg; arterial blood gas values are PaCO2 41 mmHg and pH 7.37. ,
+ARBA-0384,Arba Minch University Mock Exams 2025,384,letter_relabeled_E_to_D_source_typo,An arterial blood sample is obtained from a patient undergoing hypothermic cardiopulmonary bypass at 28oC. Analysis at 37oC shows a pH of 7.40 and PaCO2 of 40 m,
+ARBA-0388,Arba Minch University Mock Exams 2025,388,option_marker_repaired_S_to_C,Which of the following occurs in venous air embolism -:,
+ARBA-0447,Arba Minch University Mock Exams 2025,447,letter_relabeled_second_A_to_D_source_typo,"If the anesthesia machine is discovered Monday morning having run with 5 L/min of oxygen all weekend long, the most reasonable course of action to take before a",
+ARBA-0455,Arba Minch University Mock Exams 2025,455,option_marker_repaired_C,Most frequently reported malfunction in a medical gas pipeline system is,
+ARBA-0648,Arba Minch University Mock Exams 2025,648,short_stem; stem_is_single_word_in_source,Metoclopramide,
+ARBA-0683,Arba Minch University Mock Exams 2025,683,letters_relabeled_source_typo_B_B_C_E; maybe_figure,"To detect the delivery of a hypoxic gas mixture, the optimal location for an oxygen analyzer in this circle is (",
+LIPP-1-92,Lippincott's Anesthesia Review 1001,1.92,source_option_C_missing_in_book,Which of the following organs is least tolerant of ischemia for removal for transplantation?,B
+LIPP-12-40,Lippincott's Anesthesia Review 1001,12.40,figure_required_options_in_image,Which of the following flow–volume loops will be expected in a child with variable extrathoracic obstruction? Figure 12-2.,B
+LIPP-18-14,Lippincott's Anesthesia Review 1001,18.14,figure_required_options_in_image,The most common type of tracheoesophageal fistula (TEF) is Figure 18-1.,C
+LIPP-20-11,Lippincott's Anesthesia Review 1001,20.11,source_option_C_missing_in_book,You are called to evaluate a 65-year-old man in the postanesthesia care unit who underwent a left-carotid endarterectomy earlier in the day. He is having diffic,B

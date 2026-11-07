@@ -1,0 +1,13 @@
+node_modules
+claude final
+good quali
+data/app.db
+data/app.db-wal
+data/app.db-shm
+data/secret.key
+scripts
+.git
+.gitignore
+*.log
+Dockerfile
+.dockerignore

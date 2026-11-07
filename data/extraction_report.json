@@ -1,0 +1,213 @@
+{
+ "total": 2992,
+ "per_file": {
+  "A Comprehensive Review 1001.pdf": {
+   "extracted": 1001,
+   "with_source_answer_key": 1000,
+   "without_key": 1,
+   "with_source_explanation": 958,
+   "without_explanation": 43,
+   "needs_manual_review": 83,
+   "maybe_figure": 57
+  },
+  "Arba Minch University Mock Exams 2025.pdf": {
+   "extracted": 789,
+   "with_source_answer_key": 0,
+   "without_key": 789,
+   "with_source_explanation": 0,
+   "without_explanation": 789,
+   "needs_manual_review": 10,
+   "maybe_figure": 25
+  },
+  "EHPLE Practice Test 2025.pdf": {
+   "extracted": 200,
+   "with_source_answer_key": 200,
+   "without_key": 0,
+   "with_source_explanation": 0,
+   "without_explanation": 200,
+   "needs_manual_review": 0,
+   "maybe_figure": 0
+  },
+  "Lippincott's 1001.pdf": {
+   "extracted": 1002,
+   "with_source_answer_key": 1002,
+   "without_key": 0,
+   "with_source_explanation": 1002,
+   "without_explanation": 0,
+   "needs_manual_review": 4,
+   "maybe_figure": 2
+  }
+ },
+ "with_key_total": 2202,
+ "without_key_total": 790,
+ "without_explanation_total": 1032,
+ "needs_manual_review_total": 97,
+ "duplicates": {
+  "exact": 32,
+  "likely": 45,
+  "possible": 49
+ },
+ "duplicate_pairs_total": 129,
+ "duplicate_pairs_by_kind": {
+  "exact": 16,
+  "possible": 76,
+  "likely": 37
+ },
+ "cross_source_pairs": 16,
+ "duplicate_pairs_with_conflicting_keys": [
+  [
+   "CR-0302",
+   "CR-0303",
+   0.97
+  ],
+  [
+   "CR-0303",
+   "CR-0304",
+   0.907
+  ],
+  [
+   "CR-0306",
+   "CR-0310",
+   0.905
+  ],
+  [
+   "CR-0306",
+   "CR-0312",
+   0.901
+  ],
+  [
+   "CR-0306",
+   "CR-0314",
+   0.903
+  ],
+  [
+   "CR-0308",
+   "CR-0310",
+   0.91
+  ],
+  [
+   "CR-0308",
+   "CR-0311",
+   0.903
+  ],
+  [
+   "CR-0308",
+   "CR-0312",
+   0.907
+  ],
+  [
+   "CR-0308",
+   "CR-0314",
+   0.908
+  ],
+  [
+   "CR-0310",
+   "CR-0313",
+   0.903
+  ],
+  [
+   "CR-0313",
+   "CR-0314",
+   0.902
+  ],
+  [
+   "CR-0555",
+   "CR-0558",
+   0.918
+  ],
+  [
+   "CR-0555",
+   "CR-0559",
+   0.973
+  ],
+  [
+   "CR-0557",
+   "CR-0558",
+   0.915
+  ],
+  [
+   "CR-0561",
+   "CR-0563",
+   0.905
+  ],
+  [
+   "CR-0902",
+   "CR-0904",
+   0.93
+  ],
+  [
+   "LIPP-1-7",
+   "LIPP-1-8",
+   0.977
+  ],
+  [
+   "LIPP-4-27",
+   "LIPP-4-28",
+   0.936
+  ],
+  [
+   "LIPP-4-35",
+   "LIPP-4-36",
+   0.952
+  ],
+  [
+   "LIPP-13-46",
+   "LIPP-13-47",
+   1.0
+  ]
+ ],
+ "subjects": {
+  "Systemic Diseases and Special Surgeries": 442,
+  "Pharmacology": 409,
+  "Regional Anesthesia": 243,
+  "Cardiovascular Anesthesia and Physiology": 239,
+  "Respiratory Physiology and Critical Care": 228,
+  "Anesthesia Equipment and Monitoring": 201,
+  "Obstetric Anesthesia": 179,
+  "Pediatric Anesthesia": 175,
+  "Neuroanesthesia": 159,
+  "General Anesthesia": 158,
+  "Fluid, Electrolyte, Acid-Base and Blood Transfusion": 140,
+  "Preoperative Evaluation": 110,
+  "Airway Management": 78,
+  "Pain Management": 71,
+  "Postoperative Care and Complications": 59,
+  "Thoracic Anesthesia": 43,
+  "Other": 32,
+  "Research Methodology and Biostatistics": 23,
+  "Ethics and Professional Practice": 3
+ },
+ "flag_counts": {
+  "maybe_figure": 82,
+  "matching_group_shared_options": 65,
+  "matching_options_missing_figure_or_unparsed": 12,
+  "matching_options_assigned_manually": 7,
+  "options_not_parsed": 2,
+  "letter_relabeled_E_to_D_source_typo": 2,
+  "source_option_C_missing_in_book": 2,
+  "figure_required_options_in_image": 2,
+  "question_text_partially_located": 1,
+  "option_marker_repaired": 1,
+  "source_has_only_3_options": 1,
+  "letters_reconstructed_from_line_order_source_lost_labels": 1,
+  "option_marker_repaired_S_to_C": 1,
+  "letter_relabeled_second_A_to_D_source_typo": 1,
+  "option_marker_repaired_C": 1,
+  "short_stem": 1,
+  "stem_is_single_word_in_source": 1,
+  "letters_relabeled_source_typo_B_B_C_E": 1
+ },
+ "source_numbering_gaps_file2": [
+  291,
+  292,
+  293,
+  294,
+  295,
+  296,
+  297,
+  298,
+  299,
+  368,
+  392
+ ]
+}

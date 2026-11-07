@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: anesthesia-mock-exam
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: AMX_SECRET
+        generateValue: true
+# To make user accounts and history persist across restarts (requires a paid
+# instance type), add a disk and point the app at it:
+#
+#    disk:
+#      name: amx-data
+#      mountPath: /data
+#      sizeGB: 1
+#
+# The Dockerfile already uses /data for the database and secret, so mounting a
+# disk here is all that is required.

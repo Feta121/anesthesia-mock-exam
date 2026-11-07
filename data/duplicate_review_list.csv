@@ -1,0 +1,78 @@
+id,status,duplicate_of(id:similarity),question_preview
+CR-0004,exact,CR-0335:1.0,What percent desflurane is present in the vaporizing chamber of a desflurane vaporizer (pressurized to 1500 mm Hg and he
+CR-0042,likely,ARBA-0449:0.955,"At high altitudes, the flow of a gas through a rotameter will be"
+CR-0049,likely,ARBA-0450:0.957,Frost develops on the outside of an N2O compressed- gas cylinder during general anesthesia. This phenomenon indicates th
+CR-0209,exact,CR-0537:1.0,The period of vulnerability after three courses of bleomycin for testicular cancer is
+CR-0302,exact,CR-0303:0.97; CR-0304:0.909; CR-0305:0.868,[Matching] Block is antagonized with anticholinesterase drugs
+CR-0303,exact,CR-0302:0.97; CR-0304:0.907; CR-0305:0.866,[Matching] Block is enhanced with anticholinesterase drugs
+CR-0304,likely,CR-0302:0.909; CR-0303:0.907; CR-0305:0.879,[Matching] Post-tetanic facilitation occurs
+CR-0306,likely,CR-0307:0.829; CR-0308:0.899; CR-0309:0.854; CR-0310:0.905; CR-0311:0.897; CR-0312:0.901; CR-0313:0.892; CR-0314:0.903,[Matching] Amphetamines
+CR-0308,likely,CR-0306:0.899; CR-0307:0.834; CR-0309:0.86; CR-0310:0.91; CR-0311:0.903; CR-0312:0.907; CR-0313:0.898; CR-0314:0.908,[Matching] Hyperthyroidism
+CR-0310,likely,CR-0306:0.905; CR-0307:0.839; CR-0308:0.91; CR-0309:0.865; CR-0311:0.909; CR-0312:0.913; CR-0313:0.903; CR-0314:0.914; CR-0315:0.801,[Matching] Lidocaine
+CR-0311,likely,CR-0306:0.897; CR-0307:0.832; CR-0308:0.903; CR-0309:0.858; CR-0310:0.909; CR-0312:0.905; CR-0313:0.896; CR-0314:0.907,[Matching] Lithium
+CR-0312,likely,CR-0306:0.901; CR-0307:0.836; CR-0308:0.907; CR-0309:0.862; CR-0310:0.913; CR-0311:0.905; CR-0313:0.9; CR-0314:0.911,[Matching] Opioids
+CR-0313,likely,CR-0306:0.892; CR-0307:0.827; CR-0308:0.898; CR-0309:0.853; CR-0310:0.903; CR-0311:0.896; CR-0312:0.9; CR-0314:0.902,[Matching] Duration of anesthesia
+CR-0314,likely,CR-0306:0.903; CR-0307:0.837; CR-0308:0.908; CR-0309:0.863; CR-0310:0.914; CR-0311:0.907; CR-0312:0.911; CR-0313:0.902,[Matching] Pregnancy
+CR-0325,likely,ARBA-0469:0.937,The main reason desflurane is not used for inhalation induction in clinical practice is because of
+CR-0335,exact,CR-0004:1.0,What percent desflurane is present in the vaporizing chamber of a desflurane vaporizer (pressurized to 1500 mm Hg and he
+CR-0375,likely,ARBA-0473:0.937,Which of the following characteristics of volatile anesthetics is necessary for calculation of the time constant?
+CR-0389,likely,ARBA-0410:0.958,Which of the following clotting factors has the shortest half-life?
+CR-0429,likely,ARBA-0431:0.926,Hypoparathyroidism secondary to the inadvertent surgical resection of the parathyroid glands during total thyroidectomy 
+CR-0537,exact,CR-0209:1.0,The period of vulnerability after three courses of bleomycin for testicular cancer is
+CR-0555,exact,CR-0556:0.896; CR-0557:0.89; CR-0558:0.918; CR-0559:0.973,[Matching] Decreased FEV1/FVC ratio
+CR-0556,likely,CR-0555:0.896; CR-0557:0.893; CR-0558:0.922; CR-0559:0.861,[Matching] Decreased total pulmonary compliance
+CR-0557,likely,CR-0555:0.89; CR-0556:0.893; CR-0558:0.915; CR-0559:0.855,[Matching] Increased TLC
+CR-0558,likely,CR-0555:0.918; CR-0556:0.922; CR-0557:0.915; CR-0559:0.882,[Matching] Decreased FRC
+CR-0559,exact,CR-0555:0.973; CR-0556:0.861; CR-0557:0.855; CR-0558:0.882,"[Matching] Decreased FEV1, normal FEV1/FVC ratio"
+CR-0561,likely,CR-0563:0.905; CR-0566:0.811,[Matching] Weakness of all muscles below the knee
+CR-0563,likely,CR-0561:0.905,[Matching] Weakness of the muscles that extend the knee
+CR-0740,exact,ARBA-0499:0.975,What is the normal cerebral metabolic rate for oxygen (CMRO2) per minute?
+CR-0768,likely,ARBA-0494:0.904,Which of the following pharmacologic agents would have the LEAST effect on transcranial motor evoked potentials (MEPs)?
+CR-0786,likely,ARBA-0502:0.92,"In patients with increased ICP, hyperventilation is typically limited to a Paco2 of 25 to 30 mm Hg because additional hy"
+CR-0836,likely,ARBA-0012:0.958,A 69-year-old man with a history of diabetes mellitus and chronic renal failure is to undergo placement of a dialysis fi
+CR-0902,likely,CR-0903:0.868; CR-0904:0.93; CR-0905:0.862; CR-0907:0.816; CR-0909:0.823; CR-0910:0.817; CR-0911:0.833; CR-0912:0.808; CR-0914:0.85,[Matching] Phrenic nerve
+CR-0904,likely,CR-0902:0.93; CR-0903:0.865; CR-0905:0.859; CR-0907:0.814; CR-0909:0.821; CR-0910:0.814; CR-0911:0.83; CR-0912:0.805; CR-0914:0.848,[Matching] Pudendal nerve
+ARBA-0001,exact,LIPP-7-2:1.0,You have just administered a bolus of 2% lidocaine (25 mL) through an epidural catheter that has been working well for l
+ARBA-0002,likely,LIPP-7-9:0.969,Lidocaine and epinephrine are commonly used together when testing epidural anesthesia because
+ARBA-0003,exact,LIPP-7-4:1.0,"During epidural placement using a midline approach, the epidural needle penetrates all the following anatomical layers, "
+ARBA-0006,exact,LIPP-8-7:0.985,Following successful performance of a right interscalene block for surgical rotator cuff repair in a 27-year-old patient
+ARBA-0010,exact,LIPP-8-27:1.0,"When performing a transversus abdominis plane (TAP) block, the goal is to deposit/inject local anesthetic between which "
+ARBA-0012,likely,CR-0836:0.958,A 69-year-old man with a history of diabetes mellitus and chronic renal failure is to undergo placement of a dialysis fi
+ARBA-0064,exact,ARBA-0606:1.0,Which of the following is the most likely effect of administration of magnesium sulfate in a patient with preeclampsia?
+ARBA-0098,exact,ARBA-0142:1.0,"A four-year-old child came with a diagnosis of cataract and scheduled for intraocular lens implantation. Preoperatively,"
+ARBA-0142,exact,ARBA-0098:1.0,"A four-year-old child came with a diagnosis of cataract and scheduled for intraocular lens implantation. Preoperatively,"
+ARBA-0158,exact,ARBA-0162:1.0,"An anesthetist is assigned in a unit where there is a shortage of man power. However, the anesthetist is not interested "
+ARBA-0162,exact,ARBA-0158:1.0,"An anesthetist is assigned in a unit where there is a shortage of man power. However, the anesthetist is not interested "
+ARBA-0228,exact,ARBA-0709:1.0,Which of the following statements best describes testing for susceptibility to malignant hyperthermia (MH?)
+ARBA-0256,likely,ARBA-0269:0.944,"A child with suspected obstructive sleep apara comes for surgery. On pre- operative evaluation, the family reported that"
+ARBA-0257,likely,ARBA-0270:0.955,"A 32-year-old male patient was scheduled for colostomy closure. During pre- operative assessment, he has no self or fami"
+ARBA-0269,likely,ARBA-0256:0.944,"A child with suspected obstructive sleep apnea comes for surgery. On pre- operative evaluation, the family reported that"
+ARBA-0270,likely,ARBA-0257:0.955,"A 32-year-old male patient was scheduled for colostomy closure. During pre- operative assessment, he has no self or fami"
+ARBA-0350,likely,ARBA-0580:0.915,"46. An Anesthesia machine is set to deliver oxygen 2 L/min, nitrous oxide 2 L/min, and sevoflurane. After 30 minutes of "
+ARBA-0410,likely,CR-0389:0.958,Which of the following clotting factors has the shortest half-life?
+ARBA-0431,likely,CR-0429:0.926,Hypoparathyroidism secondary to the inadvertent surgical resection of the Parathyroid glands during total thyroidectomy 
+ARBA-0449,likely,CR-0042:0.955,"At high altitudes, the flow of a gas through a rotameter will be"
+ARBA-0450,likely,CR-0049:0.957,Frost develops on the outside of an N2O compressed-gas cylinder during general anesthesia. This phenomenon indicates
+ARBA-0469,likely,CR-0325:0.937,The reason desflurane is not used for inhalation induction in clinical practice is becuase
+ARBA-0473,likely,CR-0375:0.937,Which of the following characteristics of volatile anesthetics is necessary for calculation of the time constant ?
+ARBA-0494,likely,CR-0768:0.904,Which of the following pharmacologic agents would have the least effect on transcranial motor evoked potentials?
+ARBA-0499,exact,CR-0740:0.975,What is the normal cerebral metabolic rate for oxygen per minute?
+ARBA-0502,likely,CR-0786:0.92,"In patients with increased ICP, hyperventilation is typically limited to a PaCO2 in the range of 30 to 35 mm Hg because "
+ARBA-0580,likely,ARBA-0350:0.915,"An anesthesia machine is set to deliver oxygen 2 L/min, nitrous oxide 2 L/min, and enflurane. After 30 minutes of stable"
+ARBA-0606,exact,ARBA-0064:1.0,Which of the following is the most likely effect of administration of magnesium sulfate in a patient with preeclampsia?
+ARBA-0709,exact,ARBA-0228:1.0,Which of the following statements best describes testing for susceptibility to malignant hyperthermia (MH)?
+ARBA-0781,exact,LIPP-18-9:1.0,Which of the following statements about pediatric airway is true?
+LIPP-1-7,exact,LIPP-1-8:0.977,"Cefazolin, as a component of perioperative antimicrobial prophylaxis for surgery, must begin within what time before inc"
+LIPP-1-8,exact,LIPP-1-7:0.977,"Vancomycin, as a component of perioperative antimicrobial prophylaxis for surgery, must begin within what time before in"
+LIPP-4-27,likely,LIPP-4-28:0.936,Normal systemic vascular resistance ranges between ______ (dynes) (s)/cm5:
+LIPP-4-28,likely,LIPP-4-27:0.936,Normal pulmonary vascular resistance ranges between ______ (dynes) (s)/cm5:
+LIPP-4-35,likely,LIPP-4-36:0.952,A patient with carboxyhemoglobin will have a pulse oximetry reading that
+LIPP-4-36,likely,LIPP-4-35:0.952,A patient with methemoglobinemia will have a pulse oximetry reading that
+LIPP-7-2,exact,ARBA-0001:1.0,You have just administered a bolus of 2% lidocaine (25 mL) through an epidural catheter that has been working well for l
+LIPP-7-4,exact,ARBA-0003:1.0,"During epidural placement using a midline approach, the epidural needle penetrates all the following anatomical layers, "
+LIPP-7-9,likely,ARBA-0002:0.969,Lidocaine and epinephrine are commonly used together when testing epidural anesthesia because
+LIPP-8-7,exact,ARBA-0006:0.985,Following successful performance of a right interscalene block for surgical rotator cuff repair in a 27-year-old patient
+LIPP-8-27,exact,ARBA-0010:1.0,"When performing a transversus abdominis plane (TAP) block, the goal is to deposit/inject local anesthetic between which "
+LIPP-13-46,exact,LIPP-13-47:1.0,The following graph depicts the relationship between cerebral perfusion and Figure 13-1.
+LIPP-13-47,exact,LIPP-13-46:1.0,The following graph depicts the relationship between cerebral perfusion and Figure 13-2.
+LIPP-18-9,exact,ARBA-0781:1.0,Which of the following statements about pediatric airway is true?

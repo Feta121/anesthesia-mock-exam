@@ -1,0 +1,26 @@
+{
+  "name": "anesthesia-mock-exam-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anesthesia Mock Exam Platform - practice, timed mock exams, analytics, bookmarks",
+  "type": "commonjs",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node --no-warnings server/index.js",
+    "dev": "node --no-warnings --watch server/index.js",
+    "seed": "node --no-warnings -e \"require('./server/db').getDb(); console.log('database ready')\"",
+    "test": "node --no-warnings scripts/smoke_test.js && node --no-warnings scripts/e2e_test.js",
+    "test:api": "node --no-warnings scripts/smoke_test.js",
+    "test:ui": "node --no-warnings scripts/e2e_test.js",
+    "check": "node --experimental-vm-modules --no-warnings scripts/check_frontend.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^23.11.1"
+  }
+}
