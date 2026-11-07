@@ -113,9 +113,9 @@ const DEVELOPER = {
   bio: "Anesthesia student focused on evidence-based exam preparation and clinical reasoning. I built this platform to help students and future graduates prepare confidently with real, high-quality questions.",
   initials: "AK",
   links: [
-    { label: "Email", href: "mailto:abdulfetahkedir6@gmail.com", text: "abdulfetahkedir6@gmail.com" },
+    { label: "Telegram", href: "https://t.me/imnot_feta" },
     { label: "GitHub", href: "https://github.com/Feta121" },
-    // { label: "Telegram", href: "https://t.me/your_handle" },
+    { label: "Email", href: "mailto:abdulfetahkedir6@gmail.com", text: "abdulfetahkedir6@gmail.com" },
   ],
 };
 
