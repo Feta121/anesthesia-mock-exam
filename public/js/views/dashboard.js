@@ -103,6 +103,70 @@ export async function render(root, ctx) {
     }
   }
   root.appendChild(recent);
+
+  root.appendChild(developerSection());
+}
+
+const DEVELOPER = {
+  name: "Abdulfetah Kedir",
+  title: "Anesthesia Student",
+  bio: "Anesthesia student focused on evidence-based exam preparation and clinical reasoning. I built this platform to help students and future graduates prepare confidently with real, high-quality questions.",
+  initials: "AK",
+  links: [
+    { label: "Email", href: "mailto:abdulfetahkedir6@gmail.com", text: "abdulfetahkedir6@gmail.com" },
+    { label: "GitHub", href: "https://github.com/Feta121" },
+    // { label: "Telegram", href: "https://t.me/your_handle" },
+  ],
+};
+
+function developerSection() {
+  const card = el("div", { class: "card mt-3" });
+
+  card.appendChild(el("div", { class: "eyebrow", text: "About the developer" }));
+
+  const avatar = el("div", {
+    class: "avatar",
+    style:
+      "width:60px;height:60px;font-size:1.35rem;background:linear-gradient(150deg,var(--brand-500),var(--brand-700))",
+    text: DEVELOPER.initials,
+  });
+
+  const info = el("div", { class: "grow" }, [
+    el("div", { style: "display:flex;align-items:center;gap:10px;flex-wrap:wrap" }, [
+      el("h3", { style: "margin:0", text: DEVELOPER.name }),
+      el("span", { class: "badge brand", text: DEVELOPER.title }),
+    ]),
+    el("p", { class: "muted small mt-1", style: "margin-bottom:0", text: DEVELOPER.bio }),
+  ]);
+
+  card.appendChild(
+    el("div", { style: "display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap" }, [avatar, info])
+  );
+
+  const links = el("div", { class: "btn-row mt-2" });
+  for (const l of DEVELOPER.links) {
+    links.appendChild(
+      el("a", {
+        class: "btn ghost sm",
+        href: l.href,
+        target: l.href.startsWith("http") ? "_blank" : null,
+        rel: l.href.startsWith("http") ? "noopener" : null,
+      })
+    );
+    const last = links.lastChild;
+    last.textContent = l.text ? `${l.label}: ${l.text}` : l.label;
+  }
+  card.appendChild(links);
+
+  card.appendChild(
+    el("p", {
+      class: "tiny soft mt-2",
+      style: "margin-bottom:0",
+      text: "This platform is for educational use and is not a substitute for clinical judgement or official guidelines.",
+    })
+  );
+
+  return card;
 }
 
 function statTile(icon, value, label, hint) {

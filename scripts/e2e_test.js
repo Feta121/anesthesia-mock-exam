@@ -96,6 +96,8 @@ async function main() {
     // Regression: the boot overlay must actually disappear (not just get [hidden]).
     const bootDisplay = await page.evaluate(() => getComputedStyle(document.getElementById("boot")).display);
     check(bootDisplay === "none", `boot overlay hidden (display:${bootDisplay})`);
+    const devOk = await page.evaluate(() => document.body.innerText.includes("Abdulfetah Kedir"));
+    check(devOk, "About Developer section present on dashboard");
     // Real-coordinate click must not be intercepted by any overlay.
     await page.click('.nav-item[data-route="practice"]');
     await waitText(page, "Focused practice");
